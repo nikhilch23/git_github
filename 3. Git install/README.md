@@ -5,3 +5,4 @@ Points to cover:
 3. if someone isnt yet able to connect, you might have to set system proxy on the sysytem as well. Be prepared for that.
 
 
+4.  Windows:    ......
