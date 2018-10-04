@@ -10,3 +10,30 @@ Points to cover :
 https://imgur.com/a/IDvYp9l
 
 
+### Version Control. What is it?
+
+### Whaat we used to do?
+
+1. make a copy of that folder once you have reached to a substantial position.
+
+### types: CVCS and DVCS
+
+1. Central Version Control System
+2. Distributed Version Control System.
+
+
+
+### Git over other VErsion Controls
+
+1. Git has manual saving
+2. https://imgur.com/a/ZMCe3bP
+
+
+### Where will git be used?
+
+1. All the major projects are hosted here.
+2. GSoc and KWoC and all open source projects.
+3. Here the code is made public for people to see.
+
+https://imgur.com/a/
+

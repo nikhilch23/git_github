@@ -10,4 +10,9 @@ Points to cover:
 
 1. windows.. gitbash 
 2. gitbash config
-3. git config
+3. git configGithub Account
+
+
+
+
+

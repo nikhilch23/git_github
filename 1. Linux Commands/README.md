@@ -23,27 +23,22 @@ First of all lets look at some basic linux commands.
 1. mkdir
 2. pwd
 3. Relative and Absolute Path.
-4. 
+4. mv
+5. rm
 
 
-0. tell basic of workshop. (mention in the slides as well)
-1. Introduce terminal and linux commands like pwd, mkdir, mv, rm.
-2. Tell why linux is prefferred over windows in terms of git and github as well as programming languages.
+### linux preferred over Windows?
 
+1. Doesn't it seem cool to use terminal?
+2. There is no much GUI and hence the speed is quite fast.
+3. There is an excellent community support.
+4. For using any programming language you don't need to install extra softwares. They are already pre installed.
 
+### What is Open source?
 
-3. github account
-
-
-Start the day with making a github accounnt. Will save time later. Tell about github student's pack for sure.
-community support
-its cool.
-windows time lag karta hai.
-no nned to install anaconda. pytho pre installed.
+### Why Open Source?
 
 
 
-
-30 min max
 
 
