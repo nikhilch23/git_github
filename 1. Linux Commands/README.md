@@ -1,14 +1,29 @@
-Points to include:
-		
+Hello Everyone.
 
-Start the day with making a github accounnt. Will save time later. Tell about github student's pack for sure.
+## Speakers: 
+
+Nikhil Choudhary,
+Second year student,
+Deprtment of Humanities and Social Sciences.
+
+.....
+.....
+.....
 
 
-1. windows.. gitbash 
-2. gitbash config
-3. git config
+Welcome all to this Git/ GitHub workshop.
+
+Today we will be covering the basics of git and github. Here is the timeline of we are going to proceed.
 
 
+All the windows people must have installed gitbash by now.
+
+First of all lets look at some basic linux commands.
+
+1. mkdir
+2. pwd
+3. Relative and Absolute Path.
+4. 
 
 
 0. tell basic of workshop. (mention in the slides as well)
@@ -19,6 +34,8 @@ Start the day with making a github accounnt. Will save time later. Tell about gi
 
 3. github account
 
+
+Start the day with making a github accounnt. Will save time later. Tell about github student's pack for sure.
 community support
 its cool.
 windows time lag karta hai.

@@ -6,3 +6,8 @@ Points to cover:
 
 
 4.  Windows:    ......
+
+
+1. windows.. gitbash 
+2. gitbash config
+3. git config
