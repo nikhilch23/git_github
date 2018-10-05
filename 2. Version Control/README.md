@@ -1,25 +1,31 @@
+## Version Control System - VCS
 
-### Version Control. What is it and Why?
+### What is VCS and Why?
 
-* Version control software keeps track of every modification to the code in a special kind of database.
-* If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake.
-* Especially useful when a project is being handled by a team.
+* Version control software keeps track of every modification to the source code in a special kind of database.
+* If a mistake has made, developers can turn back the clock and compare earlier versions of the code to help fix that mistake.
+* Especially useful when a project is being handled by a team usually in large code bases.
 
 
 ### What we used to do?
 
-1. Make a copy of that folder once you have reached to a substantial position.
-2. Disadvatage of this is that it takes a lot of memory and the project has a bad look.
+1. Make a copy of that file/folder once you made a new version.
+2. Disadvatage of this is that it takes a lot of memory and the project will have a really bad structure.
 
-### Types of Version Control: CVCS and DVCS
+#### Let's look at this meme. 
 
-1. Central Version Control System
+https://imgur.com/a/
+
+
+### Types of Version Control Systems: CVCS and DVCS
+
+1. Centralized Version Control System
 	* The code is at a centre hub and all others access it from there.
-	* If the central code crashes, the code crashes for all the linked computers.
+	* If the central code get lost, the code get lost from all the linked computers.
+
 2. Distributed Version Control System.
 	* The central code is distributed  to all the cloned repositories.
-	* If the central code crashes, the others will still have access to the code.
-
+	* If the central code get lost, the others will still have access to the code through their clones.
 
 
 ### Git over other Version Controls?
@@ -30,13 +36,9 @@
 
 ### Where will git be used?
 
-1. All the major open source projects are hosted here.
-2. GSoc and KWoC and all open source projects.<br/>
-  [OpenSource-Projects](https://github.com/vivekrj0/SOC-Programs)
-3. Here the code is made public for people to see.
+1. All the major Open source projects are hosted on GitHub. As the name says it's the hub of projects tracked using git. We hope you've understood the difference between git and GitHub by now.
+2. GSoc and KWoC and all Open source projects.<br/>
+  [OpenSource-Projects](https://github.com/tapasweni-pathak/SOC-Programs)
+3. Here the code is made public for people to see and is much more interactive. It enhances the community interaction.
 
-#### Let's look at this meme. 
-
-https://imgur.com/a/
-
-Let's move ahead to install Git on our computers.
+>Let's move on to install git in your computers.
