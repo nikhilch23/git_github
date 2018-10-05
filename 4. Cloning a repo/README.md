@@ -59,3 +59,10 @@ b) Clone a repo and contribute there.
 * git branch --merged : Says which branches have been merged till now.
 * git merge xyz
 * git push origin master
+
+
+* git branch --merged
+* git branch -d xyz : Deletes the local branch
+
+* git push origin --delete xyz  : Deletes the branch on the remote as well.
+* git branch -a

@@ -2,16 +2,16 @@ Hello Everyone.
 
 ## Speakers: 
 
-Nikhil Choudhary
-Gaurav Goyal
-Navneeth Suresh 
-Ayush Kaushal
+* Nikhil Choudhary
+* Gaurav Goyal
+* Navneeth Suresh 
+* Ayush Kaushal
 
 ## Co ordinators:
 
-Vivek Raj
-Piyush Ranjan
-Taapas Agarwal
+* Vivek Raj
+* Piyush Ranjan
+* Taapas Agarwal
 
 
 
@@ -32,11 +32,11 @@ Welcome all to this Git/ GitHub workshop.
 
 Here is the link for the same.  [Git for windows]( https://github.com/…/v2.19.0.windows.1/Git-2.19.0-32-bit.exe)
 
+
 ### Basic linux commands:
 
-* *Path*: Relative and absolute.
-
-* *mkdir* : Makes a new directory in the current path
+* *path*: Relative and absolute.
+* *mkdir* : Makes a new directory at the current path
 * *pwd* : Gives the absolute path of the current directory
 * *ls* : List of file in the current folder
 * *ls -a* : Gives the list of all the files(including the hidden files as well)
@@ -45,12 +45,14 @@ Here is the link for the same.  [Git for windows]( https://github.com/…/v2.19.
 * *cat* : cat <filename.txt> Used to display the contents of the file on the terminal.
 
 
-### Linux preferred over Windows?
+### Why is Linux preferred over Windows?
 
 1. Doesn't it seem cool to use the terminal?
 2. There is no much GUI and hence the speed is quite fast.
 3. There is an excellent community support.
 4. For using any programming language you don't need to install extra softwares. They are already pre installed.
+
+
 
 ### What is Open source?
 
