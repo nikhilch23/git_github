@@ -11,30 +11,20 @@ Popular remotes:
 
 
 2. What is a local repo?
-The local repository refers to a copy on your own system which you've cloned from GitHub, and also contains the temporary build artifacts that you have not yet released.
+> The local repository refers to a copy on your own system which you've cloned from GitHub, and also contains the temporary build artifacts that you have not yet released.
 
 
 ## Contribution workflow
 
 1. Fork the repo which you want to make changes but, don't have permissions to do that directly.
-2. Clone **your fork** to your computer:
-`$ git clone <fork-url>`
-
-3. Create a new branch for your feature and checkout the branch:
-`$ git checkout -b <branch-name>`
-
+2. Clone **your fork** to your computer: `$ git clone <fork-url>`
+3. Create a new branch for your feature and checkout the branch: `$ git checkout -b <branch-name>`
 4. Make the necessary edits.
-5. Compare the edits:
-`$ git diff`
+5. Compare the edits: `$ git diff`
+6. Add your files which you've edited/created to the staging area: `$ git add <file-name>`
+7. Commit changes with a message: `$ git commit -m "your message"`
 
-6. Add your files which you've edited/created to the staging area:
-`$ git add <file-name>`
-
-7. Commit changes with a message:
-`$ git commit -m "your message"`
-
-8. Push changes to the origin with your feature branch:
-`$ git push origin <feature-branch>`
+8. Push changes to the origin with your feature branch: `$ git push origin <feature-branch>`
 
 9. Then, it's time to request our changes to the developer of the project. You can do this by sending a Pull Request, which we'll be calling PR from now on.
 
