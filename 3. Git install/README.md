@@ -4,47 +4,43 @@
 
 ## Windows: 
 
-  Go to this webpage :   http://www.git-scm.com
+  Go to this website :   http://www.git-scm.com
 
 
 ## Linux
 
 1. Check git --version
-2. If the version shows, you have git installed on your computer, else follow the instructions.
+2. If you get a valid version number, you have git already installed on your computer, else follow the instructions.
 
 
 ### Git and GitHub difference.
 
-* Git is a software.
-* Github is an agency who manages git.
+* Git is a DVCS.
+* GitHub hosts a large number of OS projects that are tracked using git. Even git itself.
 
 
-### Make your github account now.
+### Make your GitHub account now.
 
 
 ### Services which GitHub provides:
 
-1. GitHub student pack. (Use your institute id card for the same)
+1. GitHub student pack. (Use your institute mail id to sign up)
 2. GitHub pages.  
 
 
-### Starting with Git:
+### Starting with git:
 
 
-1. After the git is installed: Check this command `git --version`
+1. You can verify your git installation correctly by printing it's version number. Check this command `git --version`
 
-2. Write the following commands on terminal.
+2. After you've installed git properly, it's time to set some variables for the git configuration. You've to do this only once. Follow the commands on terminal.
 
-	* `git config --global user.name "Nikhil"`
-	* `git config --global user.email "nik.ch.23@gmail.com"`
-
-
+	* `git config --global user.name "ABC"`
+	* `git config --global user.email "abc.iitkgp@gmail.com"`
 	* `git config --global http.proxy http://172.16.2.30:8080`      // Setting system.proxy in git
 
-3. Now check `git config --list`
+3. Now check `git config --list` to know you've set the variables correctly.
 
 
 
-Congratulations, you have git up and running on your computer. Let's move on to start lesrning git.
-
-
+Congratulations, you've git up and running on your computer. Now, it's time to start learning git.
