@@ -1,6 +1,5 @@
 
-
-### Install git
+# Install git
 
 
 ## Windows: 
@@ -20,7 +19,7 @@
 * Github is an agency who manages git.
 
 
-# Make your github account now.
+### Make your github account now.
 
 
 ### Services which GitHub provides:
@@ -36,11 +35,11 @@
 
 2. Write the following commands on terminal.
 
-	`git config --global user.name "Nikhil"`
-	`git config --global user.email "nik.ch.23@gmail.com"`
+	* `git config --global user.name "Nikhil"`
+	* `git config --global user.email "nik.ch.23@gmail.com"`
 
 
-	`git config --global http.proxy http://172.16.2.30:8080`      // Setting system.proxy in git
+	* `git config --global http.proxy http://172.16.2.30:8080`      // Setting system.proxy in git
 
 3. Now check `git config --list`
 
