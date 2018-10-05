@@ -1,18 +1,46 @@
-## What is GitHub?
+![GitHub workflow](https://i.ytimg.com/vi/hSbJaIdqwKg/maxresdefault.jpg)
 
 1. What are remotes?
+> A remote in git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast to a local repository, a remote typically does not provide a file tree of the project's current state.
 
-	* Upstream
-	* Origin
+Popular remotes:
+
+`upstream` generally refers to the original repo that you have forked.
+
+`origin` is your fork: your own repo on GitHub, clone of the original repo of GitHub.
+
 
 2. What is a local repo?
+The local repository refers to a copy on your own system which you've cloned from GitHub, and also contains the temporary build artifacts that you have not yet released.
 
 
-## How does GitHub work?
+## Contribution workflow
 
-1. It is a good habit to first fork the original repo and then clone it to the local computer.
-2. Once the work is done on the local repo, we push to the remote (origin).
-3. Then a PR is sent to the upstream. PR is a request that see through my code, if you are satisfied enough, please merge it to your code.
+1. Fork the repo which you want to make changes but, don't have permissions to do that directly.
+2. Clone **your fork** to your computer:
+`$ git clone <fork-url>`
+
+3. Create a new branch for your feature and checkout the branch:
+`$ git checkout -b <branch-name>`
+
+4. Make the necessary edits.
+5. Compare the edits:
+`$ git diff`
+
+6. Add your files which you've edited/created to the staging area:
+`$ git add <file-name>`
+
+7. Commit changes with a message:
+`$ git commit -m "your message"`
+
+8. Push changes to the origin with your feature branch:
+`$ git push origin <feature-branch>`
+
+9. Then, it's time to request our changes to the developer of the project. You can do this by sending a Pull Request, which we'll be calling PR from now on.
+
+10. Go to the link of the repository from which you created your fork. Click on Compare and Pull Request. Send it! Pray for the developer to merge that. He might review the PR and request changes. Keep calm and work on your clone. **Remember**: Don't send PRs to your fork. That'll be useless. This is one of the common mistakes that usually happen.
+
+
 
 
 
