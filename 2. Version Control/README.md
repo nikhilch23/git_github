@@ -12,10 +12,9 @@
 1. Make a copy of that file/folder once you made a new version.
 2. Disadvatage of this is that it takes a lot of memory and the project will have a really bad structure.
 
-#### Let's look at this meme. 
+#### Let's have a look at this meme. 
 
-https://imgur.com/a/
-
+https://imgur.com/a/IDvYp9l
 
 ### Types of Version Control Systems: CVCS and DVCS
 
