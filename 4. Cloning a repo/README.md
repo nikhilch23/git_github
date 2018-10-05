@@ -16,7 +16,7 @@ Popular remotes:
 
 ## Contribution workflow
 
-1. Fork the repo which you want to make changes but, don't have permissions to do that directly.
+1. Fork the repo which you want to make changes but, don't have permissions to do that directly. We've a sandbox ready for you to practice git. Now, fork this repo: https://github.com/kossiitkgp/sandbox-2018
 2. Clone **your fork** to your computer: `$ git clone <fork-url>`
 3. Create a new branch for your feature and checkout the branch: `$ git checkout -b <branch-name>`
 4. Make the necessary edits.
@@ -34,14 +34,9 @@ Popular remotes:
 
 
 
-###  Basic workflow of GitHub:
+###  Some commonly used git commands:
 
-* First fork the original repo to your own github account. This process is called **Forking**.
-	* Here is the url of the original repo.  https://github.com/kossiitkgp/sandbox-2018
-	* First fork this.
-
-
-* Now we will clone the repo to our local computer. This process is called **Cloning**.  `git clone <url>`
+* `git clone <url>`
 
 * `git remote -v`  : this gives the info of my remote repo
 	`git remote add upstream <url>` : This will link the upstream to our local repo.
@@ -57,7 +52,7 @@ Popular remotes:
 
 * `git add .`   : Once we do git add, the changes are sent to the staging area.
 
-https://imgur.com/FBog3NW   : Here it describes how the staging area works
+![Here it describes how the staging area works](https://cdn-images-1.medium.com/max/686/1*diRLm1S5hkVoh5qeArND0Q.png)
 
 
 * `git reset <filename>`  : Removes the file from the staging area
@@ -106,11 +101,3 @@ https://imgur.com/FBog3NW   : Here it describes how the staging area works
 * `git push origin --delete xyz`  : Deletes the branch on the remote as well.
 
 * `git branch -a`
-
-
-### Sending a PR:
-
-* Now you must have pushed your changes to the remote origin.
-* Go to the  origin and send a PR from there.
-
-
