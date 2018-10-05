@@ -35,13 +35,13 @@ Here is the link for the same.  [Git for windows]( https://github.com/…/v2.19.
 
 ### Basic linux commands:
 
-* *mkdir* : Makes a new directory at the current path
-* *pwd* : Gives the absolute path of the current directory
-* *ls* : List of file in the current folder
-* *ls -a* : Gives the list of all the files(including the hidden files as well)
-* *mv* : Moves or renames a file
-* *touch* : touch <filename.txt>  Used to create a new file in the directory
-* *cat* : cat <filename.txt> Used to display the contents of the file on the terminal.
+* `mkdir` : Makes a new directory at the current path
+* `pwd` : Gives the absolute path of the current directory
+* `ls` : List of file in the current folder
+* `ls -a` : Gives the list of all the files(including the hidden files as well)
+* `mv` : Moves or renames a file
+* `touch` : touch <filename.txt>  Used to create a new file in the directory
+* `cat` : cat <filename.txt> Used to display the contents of the file on the terminal.
 
 
 ### Why is Linux preferred over Windows?
