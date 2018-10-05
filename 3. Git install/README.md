@@ -16,3 +16,23 @@ Points to cover:
 
 
 
+### Install git
+
+
+## Windows: 
+
+  Go to this webpage :   http://www.git-scm.com
+
+0. I hope all have made their github accounts by now.
+
+1. After the git is installed: Check this command `git --version`
+
+2. Write the following commands on terminal.
+
+	`git config --global user.name "Nikhil"`
+	`git config --global user.email "nik.ch.23@gmail.com"`
+
+
+	`git config --global http.proxy http://172.16.2.30:8080`      // Setting system.proxy in git
+
+3. Now check `git config --list`

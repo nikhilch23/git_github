@@ -18,3 +18,7 @@ TAPAS BLOG WILL HELP HERE.
 
 Note: Very important section .. must be taught well.
 
+
+
+Mention gitignore
+
