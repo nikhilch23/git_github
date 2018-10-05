@@ -32,7 +32,8 @@ https://imgur.com/a/IDvYp9l
 ### Where will git be used?
 
 1. All the major projects are hosted here.
-2. GSoc and KWoC and all open source projects.
+2. GSoc and KWoC and all open source projects.<br/>
+  [OpenSource-Projects](https://github.com/vivekrj0/SOC-Programs)
 3. Here the code is made public for people to see.
 
 https://imgur.com/a/
