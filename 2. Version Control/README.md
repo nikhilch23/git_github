@@ -10,7 +10,7 @@ Points to cover :
 https://imgur.com/a/IDvYp9l
 
 
-### Version Control. What is it?
+### Version Control. What is it and Why?
 
 * Version control software keeps track of every modification to the code in a special kind of database.
 * If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake.

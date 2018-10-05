@@ -1,19 +1,3 @@
-Points to cover:
-
-1. Install git. tell the commands.
-2. Set system proxy for them in git.
-3. if someone isnt yet able to connect, you might have to set system proxy on the sysytem as well. Be prepared for that.
-
-
-4.  Windows:    ......
-
-
-1. windows.. gitbash 
-2. gitbash config
-3. git configGithub Account
-
-
-
 
 
 ### Install git
@@ -23,7 +7,30 @@ Points to cover:
 
   Go to this webpage :   http://www.git-scm.com
 
-0. I hope all have made their github accounts by now.
+
+## Linux
+
+1. Check git --version
+2. If the version shows, you have git installed on your computer, else follow the instructions.
+
+
+### Git and GitHub difference.
+
+* Git is a software.
+* Github is an agency who manages git.
+
+
+# Make your github account now.
+
+
+### Services which GitHub provides:
+
+1. GitHub student pack. (Use your institute id card for the same)
+2. GitHub pages.  
+
+
+### Starting with Git:
+
 
 1. After the git is installed: Check this command `git --version`
 
@@ -36,5 +43,9 @@ Points to cover:
 	`git config --global http.proxy http://172.16.2.30:8080`      // Setting system.proxy in git
 
 3. Now check `git config --list`
+
+
+
+Congratulations, you have git up and running on your computer. Let's move on to start lesrning git.
 
 
