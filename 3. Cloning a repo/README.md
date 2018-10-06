@@ -54,3 +54,6 @@
 - To push the changes we simply use `git push origin master`
 - To check it they are merged type in `git branch --merged`
 - If the branch is successfully merged we can now delete the branch–`git branch -d <branchname>`
+
+#### Pull Request:
+- Send a pull request to sandbox repository.
