@@ -13,9 +13,9 @@
 1. Make a copy of that file/folder once you made a new version.
 2. Disadvatage of this is that it takes a lot of memory and the project will have a really bad structure.
 
-#### May May time! 
+#### Real life example:
 
-![](https://i.imgur.com/m3g6Plx.png)
+![meme](https://i.imgur.com/m3g6Plx.png)
 
 ### Types of Version Control Systems: CVCS and DVCS
 
@@ -31,8 +31,8 @@
 ### Git over other Version Controls?
 
 1. Git has manual saving.
-2. Git is distributed
-3. Keeps everything using least memory
+2. Git is distributed.
+3. Keeps everything using least memory.
 
 ### Where will git be used?
 
