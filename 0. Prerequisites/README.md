@@ -17,13 +17,6 @@
 Welcome all to this Git/ GitHub workshop.
 
 
-### What are we going to learn today?
-
-1. Basic Linux Commands
-2. Introduction to Version Control
-3. Track your project using git
-4. Contributing to a project
-
 ### Make your GitHub account: https://www.github.com.
 
 ## Windows: 
@@ -59,3 +52,12 @@ Homebrew (http://brew.sh/) is an alternative to install Git. If you have Homebre
 
 
 Congratulations, you've git up and running on your computer. Now, it's time to start learning git.
+
+
+### What are we going to learn today?
+
+1. Basic Linux Commands
+2. Introduction to Version Control
+3. Track your project using git
+4. Contributing to a project
+
