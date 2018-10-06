@@ -1,6 +1,6 @@
 ## Version Control System - VCS
 
-### What is VCS and Why?
+### What is VCS and Why do we need it?
 
 * Version control software keeps track of every modification to the source code in a special kind of database.
 * If a mistake has made, developers can turn back the clock and compare earlier versions of the code to help fix that mistake.
@@ -8,7 +8,7 @@
 * Examples for VCS- Git, Mercurial, SVN and many more.
 
 
-### What we used to do?
+### What would happen without VCS and What will happen without VCS?
 
 1. Make a copy of that file/folder once you made a new version.
 2. Disadvatage of this is that it takes a lot of memory and the project will have a really bad structure.
