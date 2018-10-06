@@ -1,13 +1,34 @@
 # Basic linux commands:
 
-* `mkdir` : Makes a new directory at the current path
-* `pwd` : Gives the absolute path of the current directory
-* `ls` : List of file in the current folder
-* `ls -a` : Gives the list of all the files(including the hidden files as well)
-* `mv` : Moves or renames a file
-* `touch` : touch <filename.txt>  Used to create a new file in the directory
-* `cat` : cat <filename.txt> Used to display the contents of the file on the terminal.
+### Why use command line?
+Using a command line increases your programming speed and it never let your system hang.
 
+ex: Try to create a folder 'c' inside 'b' inside 'a'.
+
+Let's try it using command line:
+
+`mkdir -p a/b/c`
+
+### More commands:
+
+* `cd <directory>` : Changes your location to given directory.
+* `mkdir <directory-name>` : Makes a new directory at the current path.
+* `rmdir <directory-name>` : Deletes the given directory.
+
+**Note**:
+
+> `cd` : Locate to home directory.
+>`cd ..` : Locate to previous directory.
+* `pwd` : Gives the absolute path of the current directory.
+* `ls` : List the files/directories in the current folder.
+* `ls -a` : Gives the list of all the files/directories(including the hidden files/directories).
+* `mv <filename> <target-directory>` : Change the location of a file/directory.
+* `touch <filename>`  Create a new file in the directory.
+* `rm <filename>` Deletes given file.
+* `cat <filename>` Display the contents of the file on the terminal.
+* `sudo apt-get install <package-name>` Install a package using command line.
+
+**Note**: `<command> --help` to get all use cases of the command
 
 ### Why is Linux preferred over Windows?
 
