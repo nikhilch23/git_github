@@ -1,26 +1,7 @@
-
-# Install git
-
-
-## Windows: 
-
-  Go to this website :   http://www.git-scm.com
-
-
-## Linux
-
-1. Check git --version
-2. If you get a valid version number, you have git already installed on your computer, else follow the instructions.
-
-
 ### Git and GitHub difference.
 
 * Git is a DVCS.
 * GitHub hosts a large number of OS projects that are tracked using git. Even git itself.
-
-
-### Make your GitHub account now.
-
 
 ### Services which GitHub provides:
 
