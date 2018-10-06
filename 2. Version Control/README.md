@@ -35,6 +35,8 @@
 2. Git is distributed.
 3. Keeps everything using least memory.
 
+> [Read more](https://mentormate.com/blog/differences-git-svn/)
+
 ### Where will git be used?
 
 1. All the major Open source projects are hosted on GitHub. As the name says it's the hub of projects tracked using git. We hope you've understood the difference between git and GitHub by now.
