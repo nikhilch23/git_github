@@ -28,17 +28,6 @@
 	* The central code is distributed  to all the cloned repositories.
 	* If the central code get lost, the others will still have access to the code through their clones.
 
-### Git and GitHub difference.
-
-* Git is a DVCS.
-* GitHub hosts a large number of OS projects that are tracked using git. "Even git itself".
-* Git is a tool and Github is a service provider. 
-
-### Services which GitHub provides:
-
-1. GitHub student pack. (Use your institute mail id to sign up)
-2. GitHub pages. 
-
 
 ### Git over other Version Controls?
 
@@ -52,3 +41,20 @@
 2. Google Summer of Code, Rails Girls Summer of Code, Kharagpur Winter of Code and all Open source projects.
 [OpenSource-Projects](https://github.com/tapasweni-pathak/SOC-Programs)
 3. Here the code is made public for people to see and is much more interactive. It enhances the community interaction.
+
+
+## Github
+
+### Git and GitHub difference.
+
+* Git is a DVCS.
+* GitHub hosts a large number of OS projects that are tracked using git. "Even git itself".
+* Git is a tool and Github is a service provider. 
+
+### Services which GitHub provides:
+
+1. GitHub student pack. (Use your institute mail id to sign up)
+2. GitHub pages. 
+
+#### Cloning and Forking a repository.
+
