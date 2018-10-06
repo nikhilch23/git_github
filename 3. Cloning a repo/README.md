@@ -29,5 +29,30 @@
 
 
 ### 5. Staging Area.
-- Literally it means a stopping place or assembly point en route to a destination. In Git also it has similar meaning with destination being a commit.
-- Staging area is
+- Moving files to staging area:
+- For adding files individually use 
+> `$ git add <filename>`
+- For adding all files at once use 
+> `$ git add -A`
+- To remove files from staging area use 
+> `$ git reset <filename>`
+- and to remove all simply type 
+> `$ git reset`
+### 6. To track the changes you made:
+> `$ git diff`
+### 7. To commit the files:
+> `$ git commit`
+- but it is necessary to add messages with the commit to make sure what we did ; so for that we use `-m` extension like `git commit -m “message”`
+- You can also the changes you made w.r.t last commit using `git diff <commit>`.If `<commit>` field is kept empty, git will compare it with the last commit.
+### 8. To check the commit history:
+>` $ git log`
+### 9. Branching:
+- To create a new branch use `git branch <branchname>`
+- To check all the branches present use `git branch`
+- To switch over branch use `git checkout <branchname>`
+- To do the above processes of creating and switching together use `git checkout -b <branchname>`
+- To push a commited changes type in `git push -u origin <branchname>`
+- To merge the current branch you are working on to master use `git merge <branchname>`
+- To push the changes we simply use `git push origin master`
+- To check it they are merged type in `git branch --merged`
+- If the branch is successfully merged we can now delete the branch–`git branch -d <branchname>`
