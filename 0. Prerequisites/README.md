@@ -1,4 +1,4 @@
-## Speakers:
+<!-- (## Speakers:
 
 	* 
 	*
@@ -11,7 +11,7 @@
 	*
 	*
 	*
-
+-->
 # Pre-requisites
 
 Welcome all to this Git/ GitHub workshop.
