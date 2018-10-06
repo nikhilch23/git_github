@@ -1,4 +1,18 @@
-# Prerequisites
+# Speakers:
+
+	* 
+	*
+	*
+	*
+
+# Co-ordinators:
+
+	*
+	*
+	*
+	*
+
+# Pre-requisites
 
 Welcome all to this Git/ GitHub workshop.
 
@@ -16,17 +30,23 @@ Welcome all to this Git/ GitHub workshop.
 
 Follow the instructions on the blog: https://blog.kossiitkgp.in/using-git-bash-for-git-in-windows-d1876774fae3 || https://bit.ly/2RtFuaZ
 
+## Mac:
+
+Homebrew (http://brew.sh/) is an alternative to install Git. If you have Homebrew installed, install Git via
+
+`brew install git`
+
 ## Linux:
 
 1. Execute `git --version` in the command line.
 2. If you get a valid version number, you have git already installed on your computer, else follow the instructions below.
 
-### Install git
+#### Install git
 
 1. Execute the following command: `sudo apt-get install git`. Type your password when prompted which won't be visible to you.
 2. Execute `git --version` in command line to verify installation.
 
-### Configure git:
+#### Configure git:
 
 1. After you've installed git properly, it's time to set some variables for the git configuration. You've to do this only once. Follow the commands on terminal.
 
