@@ -37,6 +37,7 @@
 ### Where will git be used?
 
 1. All the major Open source projects are hosted on GitHub. As the name says it's the hub of projects tracked using git. We hope you've understood the difference between git and GitHub by now.
-2. GSoc and KWoC and all Open source projects.<br/>
+2. Google Summer of Code, Rails Girls Summer of Code, Kharagpur Winter oC and all Open source projects.
+<br/>
   [OpenSource-Projects](https://github.com/tapasweni-pathak/SOC-Programs)
 3. Here the code is made public for people to see and is much more interactive. It enhances the community interaction.
