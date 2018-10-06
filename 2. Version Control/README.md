@@ -52,5 +52,4 @@
 2. Google Summer of Code, Rails Girls Summer of Code, Kharagpur Winter of Code and all Open source projects.
 [OpenSource-Projects](https://github.com/tapasweni-pathak/SOC-Programs)
 <br/>
-
 3. Here the code is made public for people to see and is much more interactive. It enhances the community interaction.
