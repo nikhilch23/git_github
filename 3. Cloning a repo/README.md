@@ -1,32 +1,18 @@
 # Let's start your journey with Git.
 
 ### 1. Creating a local repository. (Git command: git init)
-- Create a new folder (my-project).
-- Use cd command to go to newly created folder.
-- Type the following command:
-> $ git init
-- This will create a .git file in the directory with a basic skeleton without any commits.
+- Simply cd into the directory you want to track and simply type `git init`. This will create a `.git` file in the directory with a basic skeleton without any commits.
 
 ### 2. Creating a repository on Github. (Git command: git remote)
 
 
 ### 3. Checking files which can be commited. (Git command: git status)
-- Type the following command:
-> $ git status
-- This will list the files that can be commited.
+>`$ git status`
 
-- There might be some files in your local repository which you do not want to make public.
-- So to ignore such files, we create a .gitignore file using command:
-> $ touch .gitignore
-- Now open this .gitignore file and add names of files you want to ignore.
+-This will list the files that have been changed in red and those which can be commited in green
 
-4. Creating a new file in folder.
-- Create a new text file.
-- Again do:
-> $ git status
-- Now you will see a file there in your status output.  
-
-
+- To ignore files create a `.gitignore` file using `touch .gitignore`
+- Open this using text editor and add names of files you want to ignore. 
 
 ### 5. Staging Area.
 - Moving files to staging area:
