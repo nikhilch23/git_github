@@ -5,6 +5,7 @@
 * Version control software keeps track of every modification to the source code in a special kind of database.
 * If a mistake has made, developers can turn back the clock and compare earlier versions of the code to help fix that mistake.
 * Especially useful when a project is being handled by a team usually in large code bases.
+* Examples for VCS- Git, Mercurial, SVN and many more.
 
 
 ### What we used to do?
