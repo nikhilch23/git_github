@@ -1,6 +1,6 @@
 ## Version Control System - VCS
 
-### What is VCS and Why do we need it?
+### What is VCS and why do we need it?
 
 * Version control software keeps track of every modification to the source code in a special kind of database.
 * If a mistake has made, developers can turn back the clock and compare earlier versions of the code to help fix that mistake.
@@ -8,7 +8,7 @@
 * Examples for VCS are Git, Mercurial, SVN and many more.
 
 
-### What would happen without VCS and What will happen without VCS?
+### What would happen without VCS?
 
 1. Make a copy of that file/folder once you made a new version.
 2. Disadvatage of this is that it takes a lot of memory and the project will have a really bad structure.
@@ -43,11 +43,10 @@
 3. Here the code is made public for people to see and is much more interactive. It enhances the community interaction.
 
 
-## Github
+### What is GitHub?
+GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features
 
-### Definition
-
-### Git and GitHub difference.
+### Git vs GitHub.
 
 * Git is a DVCS.
 * GitHub hosts a large number of OS projects that are tracked using git. "Even git itself".
@@ -57,6 +56,3 @@
 
 1. GitHub student pack. (Use your institute mail id to sign up)
 2. GitHub pages. 
-
-#### Cloning and Forking a repository.
-
