@@ -31,6 +31,8 @@
 ### Git over other Version Controls?
 
 1. Git has manual saving.
+2. Git is distributed
+3. Keeps everything using least memory
 
 ### Where will git be used?
 
