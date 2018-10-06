@@ -1,39 +1,4 @@
-Hello Everyone.
-
-## Speakers: 
-
-* Nikhil Choudhary
-* Gaurav Goyal
-* Navaneeth Suresh 
-* Ayush Kaushal
-
-## Co ordinators:
-
-* Vivek Raj
-* Piyush Ranjan
-* Taapas Agarwal
-
-
-
-Welcome all to this Git/ GitHub workshop.
-
-
-### What are we going to learn today?
-
-1. Basic Linux Commands
-2. Version Control
-3. Git installation
-4. Fork and Clone
-5. Making your own project
-6. Contributing to a project
-
-
-### Windows people should install gitbash now.
-
-Here is the link for the same.  [Git for windows]( https://github.com/…/v2.19.0.windows.1/Git-2.19.0-32-bit.exe)
-
-
-### Basic linux commands:
+# Basic linux commands:
 
 * `mkdir` : Makes a new directory at the current path
 * `pwd` : Gives the absolute path of the current directory
