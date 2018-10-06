@@ -12,9 +12,9 @@
 1. Make a copy of that file/folder once you made a new version.
 2. Disadvatage of this is that it takes a lot of memory and the project will have a really bad structure.
 
-#### Let's have a look at this meme. 
+#### May May time! 
 
-https://imgur.com/a/IDvYp9l
+![](https://i.imgur.com/m3g6Plx.png)
 
 ### Types of Version Control Systems: CVCS and DVCS
 
@@ -39,5 +39,3 @@ https://imgur.com/a/IDvYp9l
 2. GSoc and KWoC and all Open source projects.<br/>
   [OpenSource-Projects](https://github.com/tapasweni-pathak/SOC-Programs)
 3. Here the code is made public for people to see and is much more interactive. It enhances the community interaction.
-
->Let's move on to install git in your computers.
