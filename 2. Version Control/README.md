@@ -30,7 +30,8 @@
 ### Git over other Version Controls?
 
 1. Git has manual saving.
-2. ![](https://i.imgur.com/70Fjtnu.png)
+#### Feature Comparison Chart.
+![](https://i.imgur.com/70Fjtnu.png)
 
 
 ### Where will git be used?
