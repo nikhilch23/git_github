@@ -14,7 +14,7 @@ Welcome all to this Git/ GitHub workshop.
 
 ## Windows: 
 
-Follow the instructions on the blog: https://blog.kossiitkgp.in/using-git-bash-for-git-in-windows-d1876774fae3
+Follow the instructions on the blog: https://blog.kossiitkgp.in/using-git-bash-for-git-in-windows-d1876774fae3 || https://bit.ly/2RtFuaZ
 
 ## Linux:
 
