@@ -5,7 +5,7 @@
 * Version control software keeps track of every modification to the source code in a special kind of database.
 * If a mistake has made, developers can turn back the clock and compare earlier versions of the code to help fix that mistake.
 * Especially useful when a project is being handled by a team usually in large code bases.
-* Examples for VCS- Git, Mercurial, SVN and many more.
+* Examples for VCS are Git, Mercurial, SVN and many more.
 
 
 ### What we used to do?
@@ -13,9 +13,9 @@
 1. Make a copy of that file/folder once you made a new version.
 2. Disadvatage of this is that it takes a lot of memory and the project will have a really bad structure.
 
-#### May May time! 
+#### Real life example 
 
-![](https://i.imgur.com/m3g6Plx.png)
+![Meme](https://i.imgur.com/m3g6Plx.png)
 
 ### Types of Version Control Systems: CVCS and DVCS
 
