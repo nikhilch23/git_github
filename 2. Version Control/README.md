@@ -30,7 +30,8 @@
 ### Git over other Version Controls?
 
 1. Git has manual saving.
-#### Feature Comparison Chart.
+#### 2. Feature Comparison Chart.
+Git provides all the features.
 ![](https://i.imgur.com/70Fjtnu.png)
 
 
